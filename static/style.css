@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+  }
+  
+  .name{
+    position: relative;
+    font-family: monospace;
+    margin-bottom: 0px;
+  }
+  
+  .description {
+    position: relative;
+    font-family: monospace;
+    margin-top: 0px;
+  }
+  
+  .center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .center h2 {
+    margin-top: 10px;
+    font-family: monospace;
+    margin-bottom: 0px;
+    position:relative;
+  }
+  
+  .center ul {
+    margin-top: 0px;
+    padding-inline-start: 0px;
+    font-family: monospace;
+  }
