@@ -28,7 +28,7 @@ def index():
   <ul>
     <li><a href="https://twitter.com/ShivenSamant">twitter</a></li>
     <li><a href="https://www.linkedin.com/in/shivensamant/">linkedin</a></li>
-    <li><a href="/home">other</a></li>
+    <li><a href="mailto:shiven@shiven.info">email me</a></li>
   </ul>
 </div>
   
