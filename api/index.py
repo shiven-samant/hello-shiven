@@ -19,7 +19,7 @@ def index():
   <div class = "container">
     <img  src = "/static/images/shiven.png">
     <h2 class = "name">shiven samant</h2>
-    <p class = "description">data & product</p>
+    <p class = "description">currently taking some time off to think through what's next. most recently a data pm at harmonic. formerly analytics at fivetran, grailed, and sailthru.</p>
   </div>
 
   
