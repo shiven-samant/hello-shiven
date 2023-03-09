@@ -12,7 +12,7 @@ def index():
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>shiven samant</title>
-  <link href=/static/style.css" rel="stylesheet" type="text/css" />
+  <link href="/static/style.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
